@@ -1,0 +1,6 @@
+sfdx force:data:tree:export --query \
+      "SELECT Name, ed_insights__object_api_name__c, \
+      ed_insights__outcome_field_api_name__c, ed_insights__commentary_field_api_name__c, \
+      ed_insights__prescription_field_api_name__c, ed_insights__prediction_definition_id__c\
+       FROM ed_insights__SDDPredictionConfig__c"  \
+    --prefix export_dis_write_back --outputdir sfdx-out --plan

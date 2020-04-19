@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ed_insights__SDDPredictionConfig__c",
+                "referenceId": "ed_insights__SDDPredictionConfig__cRef1"
+            },
+            "Name": "Tenure",
+            "ed_insights__object_api_name__c": "Subscriber__c",
+            "ed_insights__outcome_field_api_name__c": "Tenure_Outcome__c",
+            "ed_insights__commentary_field_api_name__c": "Tenure_Explanation__c",
+            "ed_insights__prescription_field_api_name__c": "Tenure_Prescription__c",
+            "ed_insights__prediction_definition_id__c": "1OR1U000000PAsIWAW"
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+sfdx force:data:tree:import --targetusername test-wvkpnfm5z113@example.com \
+    --plan export_dis_write_back-ed_insights__SDDPredictionConfig__c-plan.json

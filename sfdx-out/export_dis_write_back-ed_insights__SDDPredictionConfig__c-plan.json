@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "ed_insights__SDDPredictionConfig__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export_dis_write_back-ed_insights__SDDPredictionConfig__cs.json"
+        ]
+    }
+]
